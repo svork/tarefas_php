@@ -1,0 +1,4 @@
+1 - Array: Um vetor que possui um índice numérico e que pode contar N valores
+2 - Object: Uma instância de uma classe no PHP, contém métodos e atributos
+3 - Resource: Um recurso utilizado no PHP, como por exemplo, um acesso a um banco de dados
+4 - Null: O valor de uma variável que foi declarada, mas não foi atribuído nenhum valor
